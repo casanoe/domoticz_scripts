@@ -6,8 +6,8 @@ auteur : casanoe
 creation : 21/07/2019
 mise à  jour : 21/07/2019
 
-Switch on/off a Bose HP.
-Detect if a Bose HP is active.
+Switch on/off a Bose speaker.
+Detect if a Bose speaker is active.
 
 Tested on Bose Soundtouch 30.
 
